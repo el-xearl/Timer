@@ -1,6 +1,5 @@
-# timer
+# Timer
 Simple Python countdown timer with console and Tkinter GUI support.
-Tamam Serhat! 😎 İşte **tek bir README.md** dosyası, tüm projeyi kapsıyor: **Konsol ve GUI kullanım rehberi dahil**, GitHub’a direkt koyabilirsin.
 
 ````markdown
 # Basit Zamanlayıcı ⏱️
@@ -55,5 +54,5 @@ python src/main.py
 * Birden fazla alarm ekleyin
 * Süreleri JSON’a kaydedin
 
-```
+
 
